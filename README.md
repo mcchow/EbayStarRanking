@@ -1,2 +1,2 @@
-# EbayStarRanking
-Isolate all applications from direct access to the eBay database. Provide all needed business functionality. 
+# large-scale-system
+Manages to solve busniess problems with large scale database system. 
