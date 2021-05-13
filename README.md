@@ -5,4 +5,4 @@ This project is aim to:
 
 Understand how to migrate to a scalable enterprise system
 
-Be able to effectively present his or her design ideas and concepts to fellow team members.
+Be able to effectively present design ideas and concepts to fellow team members.
