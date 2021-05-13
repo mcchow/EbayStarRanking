@@ -4,6 +4,8 @@ Designed database schema and proposed the solution for various business problems
 # What problem solved
 Designed database schema and developed solutions for various business scaling, availability, and latency problems on a large scale SQL database system.  
 
+Designed solutions for adding seller ranking on eBay and make sure Idempotence of the service.
+
 Designed database horizontal and vertical partitioning solution to solve Amazon’s fulfillment and order database latency and availability issue.
 
 
