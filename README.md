@@ -9,6 +9,6 @@ Designed database horizontal and vertical partitioning solution to solve Amazonâ
 
 # This project is aim to:
 
-Understand how to migrate to a scalable enterprise system
+1.Understand how to migrate to a scalable enterprise system
 
-Be able to effectively present design ideas and concepts to fellow team members.
+2.Be able to effectively present design ideas and concepts to fellow team members.
