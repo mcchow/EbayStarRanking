@@ -8,6 +8,8 @@ Designed solutions for adding seller ranking on eBay and make sure Idempotence o
 
 Designed database horizontal and vertical partitioning solution to solve Amazon’s fulfillment and order database latency and availability issue.
 
+Designed JSON message for Amazon’s fulfillment availability issue.
+
 
 # This project is aim to:
 
